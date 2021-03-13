@@ -1,0 +1,1 @@
+# SocketTool-qt5.12.10-
